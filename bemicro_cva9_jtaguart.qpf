@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "18.1.1"
+DATE = "21:37:14  June 15, 2019"
+
+# Revisions
+
+PROJECT_REVISION = "bemicro_cva9_jtaguart"
